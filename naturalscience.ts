@@ -732,7 +732,7 @@ namespace naturalScience {
     }
 
     export enum SERVERS {
-        //% blockId=SERVERS_China block="EasyIOT_CN"
+        //% blockId=SERVERS_China block="SP_IOT"
         China,
         //% blockId=SERVERS_English block="EasyIOT_EN"
         English,
